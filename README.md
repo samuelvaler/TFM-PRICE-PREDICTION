@@ -7,6 +7,7 @@ El repositorio está organizado de la siguiente manera:
 
 - El directorio `Predicciones_2019` contiene el notebook y los modelos en formato `.h5` entrenados usando datos desde el año 2010 hasta el año 2019.
 - El directorio `Predicciones_2023` contiene el notebook y los modelos en formato `.h5` entrenados usando datos desde el año 2010 hasta el año 2023.
+- El archivo `Analisis_de_datos.ipynb` contiene el código empelado para el análisis previo de los datos de train y test.
 - El archivo `requirements.txt` contiene los requisitos necesarios para ejecutar los notebooks.
 - El archivo `LICENSE.txt` contiene todo lo relativo a la licencia de uso de este código.
 
